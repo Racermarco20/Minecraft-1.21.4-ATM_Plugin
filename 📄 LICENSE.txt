@@ -1,0 +1,15 @@
+Copyright (c) 2025 racermarco20
+
+Dieses Plugin (ATM Plugin) ist urheberrechtlich geschützt. 
+Es darf ohne ausdrückliche, schriftliche Erlaubnis des Autors 
+weder kopiert, verändert, veröffentlicht noch verbreitet werden.
+
+Die Nutzung des Plugins ist ausschließlich für den persönlichen 
+oder internen Gebrauch durch den ursprünglichen Entwickler vorgesehen. 
+Jegliche kommerzielle oder nicht-kommerzielle Weiterverwendung, 
+Verbreitung, Dekompilierung oder Reverse Engineering ist untersagt.
+
+Für Anfragen zur Nutzung oder Lizensierung wenden Sie sich bitte an:
+racermarco20 (Kontakt über GitHub oder direkte Anfrage)
+
+Alle Rechte vorbehalten.
