@@ -1,0 +1,9 @@
+name: atm
+version: '1.0-SNAPSHOT'
+main: at.racermarco20.atm.AtmPlugin
+api-version: '1.21'
+authors: [ Racermarco20 ]
+description: A working ATM with deposit, withdraw, balance and conversion.
+commands:
+  atm:
+    description: Öffnet den Bankautomaten
