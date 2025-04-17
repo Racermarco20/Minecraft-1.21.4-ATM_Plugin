@@ -1,6 +1,5 @@
 package at.racermarco20.atm;
 
-import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class AtmPlugin extends JavaPlugin {
