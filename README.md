@@ -57,5 +57,12 @@ Ein Minecraft-Plugin zur Simulation eines modernen Bankautomaten mit PIN-Eingabe
 
 ## ❤️ Autor
 
-Erstellt von **racermarco20**  
-Lizenz: Frei verwendbar für private Projekte.
+Racermarco20
+
+## 📄 Lizenz
+
+Dieses Plugin ist **nicht frei zur Weiterverwendung oder Verbreitung erlaubt**.  
+Jegliche Nutzung, Veränderung oder Weitergabe ohne ausdrückliche Zustimmung des Autors ist untersagt.  
+Für Anfragen zur Nutzung bitte Kontakt mit dem Entwickler aufnehmen.
+
+© 2025 Racermarco20. Alle Rechte vorbehalten.
